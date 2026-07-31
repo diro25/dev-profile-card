@@ -15,3 +15,11 @@ main {
     height: 150px;
     border-radius: 50%;
 }
+.profile-card {
+    width: 350px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
