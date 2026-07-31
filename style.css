@@ -10,3 +10,8 @@ main {
     align-items: center;
     height: 100vh;
 }
+.profile-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
