@@ -1,82 +1,54 @@
-# Profile Card
-
-A clean and responsive profile card built using **HTML** and **CSS**. This project focuses on practicing modern CSS techniques, responsive layouts, and attractive UI design.
+# Dev Profile Card
+A sleek and responsive developer profile card component built with **HTML**, **CSS**, and **Tailwind CSS**. This project focuses on practicing utility-first styling, responsive layouts, and clean UI design.
 
 ## 📸 Preview
-
 > Add a screenshot of your project here.
-
 ![Profile Card Screenshot](./images/screenshot.png)
 
 ## 🚀 Live Demo
-
 https://your-live-demo-link.com
 
 ## ✨ Features
-
 - Responsive design
-- Modern and clean UI
-- CSS Flexbox layout
+- Modern, minimal UI
+- Tailwind utility-first styling
 - Hover effects
-- Mobile-friendly
-- Easy to customize
+- Easy to customize (avatar, name, bio, links)
 
-##🛠️ Built With
-
+## 🛠️ Built With
 - HTML5
 - CSS3
+- Tailwind CSS
 
 ## 📂 Project Structure
-
-```
-profile-card/
-│── index.html
-│── style.css
-│── images/
-│   └── screenshot.png
-└── README.md
-```
-
 ## 💻 Getting Started
-
 1. Clone the repository.
-
 ```bash
-git clone https://github.com/diro25/profile-card.git
+git clone https://github.com/diro25/dev-profile-card.git
 ```
-
 2. Navigate to the project folder.
-
 ```bash
-cd profile-card
+cd dev-profile-card
 ```
-
 3. Open `index.html` in your browser.
 
 ## 📚 What I Learned
-
 During this project I practiced:
-
-- Structuring HTML pages
-- Styling with CSS
-- Flexbox alignment
-- Responsive design principles
-- Creating reusable UI components
+- Building responsive components with Tailwind
+- Structuring reusable HTML components
+- Styling for different screen sizes
+- Clean, minimal UI design
 
 ## 🎯 Future Improvements
-
 - Add dark mode
-- Add animations
-- Improve accessibility
-- Add customizable themes
+- Add subtle animations
+- Add social icon library (Lucide/FontAwesome)
+- Turn into a reusable React/Vue component
 
 ## 👨‍💻 Author
-
 **Diriba Adugna**
-
 - GitHub: https://github.com/diro25
 - LinkedIn: https://www.linkedin.com/in/diriba-adugna/
 
 ## 📄 License
-
 This project is open source and available under the **MIT License**.
