@@ -44,6 +44,7 @@ During this project I practiced:
 - Add subtle animations
 - Add social icon library (Lucide/FontAwesome)
 - Turn into a reusable React/Vue component
+- SEE YOU TOMORROWD
 
 ## 👨‍💻 Author
 **Diriba Adugna**
