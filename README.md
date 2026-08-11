@@ -19,6 +19,7 @@ https://your-live-demo-link.com
 - HTML5
 - CSS3
 - Tailwind CSS
+  js
 
 ## 📂 Project Structure
 ## 💻 Getting Started
